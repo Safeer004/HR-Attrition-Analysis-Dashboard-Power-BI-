@@ -1,7 +1,7 @@
 # HR Attrition Analysis Dashboard (Power BI)
 
 ## Problem Statement  
-Employee attrition (turnover) is a critical issue for organizations as it impacts productivity, costs, and morale. The goal of this project is to analyze employee attrition data to identify patterns and factors contributing to employees leaving the company, helping HR make data-driven retention decisions.
+Employee attrition (turnover) is a critical issue for organizations as it impacts productivity, costs, and morale. This project aims to analyze employee attrition data to identify patterns and factors contributing to employees leaving the company, helping HR make data-driven retention decisions.
 
 ## Dataset  
 IBM HR Analytics Employee Attrition Dataset (publicly available on Kaggle)
@@ -17,9 +17,9 @@ IBM HR Analytics Employee Attrition Dataset (publicly available on Kaggle)
 
 ## Key Visualizations  
 - Attrition rate by Department and Job Role  
-- Employee Age and Tenure distributions  
+- Employee Age and Tenure Distributions  
 - Satisfaction Scores vs. Attrition Status  
-- Monthly Income and Attrition correlation  
+- Monthly Income and Attrition Correlation  
 - Heatmap of factors impacting attrition  
 
 ## Key Insights  
@@ -29,7 +29,7 @@ IBM HR Analytics Employee Attrition Dataset (publicly available on Kaggle)
 - Income level had a notable impact on retention.  
 
 ## Conclusion  
-The dashboard provides HR professionals with actionable insights to target employee retention strategies more effectively by focusing on high-risk groups and improving job satisfaction and compensation plans.
+The dashboard provides HR professionals with actionable insights to more effectively target employee retention strategies by focusing on high-risk groups and improving job satisfaction and compensation plans.
 
 ## Screenshot  
-![HR Attrition Dashboard]()
+![HR Attrition Dashboard](https://github.com/Safeer004/HR-Attrition-Analysis-Dashboard-Power-BI-/blob/main/Screenshot%202025-01-26%20104616.png)
